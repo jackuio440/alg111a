@@ -1,5 +1,3 @@
-from ipData import *
-
 q=[0,0,0,0,0]
 for a in range(0,70):
     for b in range(0,70):
